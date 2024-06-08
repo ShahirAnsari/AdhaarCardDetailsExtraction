@@ -1,0 +1,7 @@
+deskew==1.5.1
+matplotlib==3.9.0
+numpy==1.26.4
+opencv_python==4.9.0.80
+Pillow==10.3.0
+pytesseract==0.3.10
+ultralytics==8.2.18
