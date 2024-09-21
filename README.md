@@ -14,10 +14,10 @@ NumPy
 pip install requirements.txt
 ```
 
-Features:
-Aadhaar Card Detection: Uses YOLOv8 for efficient and accurate detection of Aadhaar cards in a variety of image formats.
-Information Extraction: Extracts key details like Aadhaar number, name, and address from the detected Aadhaar card.
-Preprocessing: Supports image preprocessing for better accuracy, including resizing, normalization, and noise reduction.
+Features: <br>
+>Aadhaar Card Detection: Uses YOLOv8 for efficient and accurate detection of Aadhaar cards in a variety of image formats.
+>Information Extraction: Extracts key details like Aadhaar number, name, and address from the detected Aadhaar card.
+>Preprocessing: Supports image preprocessing for better accuracy, including resizing, normalization, and noise reduction.
 
 Usage:
 Clone the repository and install the required dependencies.
